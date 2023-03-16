@@ -17,6 +17,7 @@ $ npm run start:dev
 ## Note
 
 Token expires in 60 seconds.
+In the repo exists the Postman collection.
 
 ## Stay in touch
 

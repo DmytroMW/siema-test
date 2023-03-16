@@ -1,7 +1,7 @@
 const Rollbar = require('rollbar');
 
 export const RollbarSngl = new Rollbar({
-  accessToken: 'fcfc4c8ea0104285bb2279465737bf15',
+  accessToken: '9772add992c24d5188c12f8028598063',
   captureUncaught: true,
   captureUnhandledRejections: true,
 });
